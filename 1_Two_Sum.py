@@ -11,7 +11,7 @@ for i in range(len(nums)):
 '''    
 
 nums = [2,7,11,15]
-target = 18 
+target = 9 
 hashmap = {}
     
 for i, num in enumerate(nums):
