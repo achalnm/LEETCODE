@@ -12,4 +12,4 @@ for i in range(len(s)):
     else:
          total = total + roman[s[i]]
     
-print(total)
+print (total)
